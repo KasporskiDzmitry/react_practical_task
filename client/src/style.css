@@ -1,0 +1,16 @@
+#changes_info {
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    border: solid lightgreen 1px;
+    border-radius: 5px;
+    background: beige;
+}
+
+#changes_info span {
+    display: block;
+}
+
+.error {
+    margin: 10px 0px 10px 0px;
+    color: red;
+}
